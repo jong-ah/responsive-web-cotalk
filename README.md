@@ -1,6 +1,6 @@
 # responsive-web-cotalk
 
-![readme](https://user-images.githubusercontent.com/81145387/131264984-c16706a5-dcec-45bc-a19f-3a67fd8ee931.gif)
+![readme update](https://user-images.githubusercontent.com/81145387/131266992-7360d118-d36b-4d25-989f-9f6996de71ac.gif)
 
 
 > npx create-react-app responsive-web-cotalk   
