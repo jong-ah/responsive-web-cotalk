@@ -1,0 +1,13 @@
+//! SCSS Syntax
+
+.container {
+  color: #fff;
+
+  @include responsive(T) {
+    color: #000;
+  }
+
+  @include responsive(D) {
+    color: #f00;
+  }
+}
